@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:speedup_sandbox/routing.dart';
-import 'package:speedup_sandbox/theming.dart';
+import 'package:sequential_recognition/routing.dart';
+import 'package:sequential_recognition/theming.dart';
 
 void main() {
   runApp(

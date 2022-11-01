@@ -1,4 +1,4 @@
-# speedup_sandbox
+# sequential_recognition
 
 A new Flutter project.
 

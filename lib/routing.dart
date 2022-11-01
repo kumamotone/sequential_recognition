@@ -1,5 +1,5 @@
 import 'package:go_router/go_router.dart';
-import 'package:speedup_sandbox/ui/home_tab/home_tab_page.dart';
+import 'package:sequential_recognition/ui/home_tab/home_tab_page.dart';
 
 final router = GoRouter(
   routes: [

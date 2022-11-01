@@ -1,4 +1,4 @@
-name: speedup_sandbox
+name: sequential_recognition
 description: A new Flutter speedup sandbox.
 version: 1.0.0+1
 environment:
@@ -12,6 +12,13 @@ dependencies:
   dio: ^4.0.4
   pretty_dio_logger: ^1.1.1
   go_router: ^3.0.1
+  simple_ripple_animation: ^0.0.3
+  auto_size_text: ^3.0.0
+  speech_to_text: ^5.4.2
+
+#  speech_to_text:
+#    git: git@github.com:kumamotone/speech_to_text.
+#    path: speech_to_text
 
 dev_dependencies:
   flutter_test:

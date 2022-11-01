@@ -1,4 +1,4 @@
-package com.example.speedup_sandbox
+package com.example.sequential_recognition
 
 import io.flutter.embedding.android.FlutterActivity
 
